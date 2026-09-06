@@ -4,11 +4,6 @@ SHU **Fundamentals of Computing** referral project: an object-oriented Python
 console application that stores planet data in JSON and answers interactive
 queries (details, mass, moons, membership).
 
-> **Academic integrity:** Understand every line before you submit. Do not
-> submit code you cannot explain in a viva or code review. Adapt names and
-> comments if your tutor expects your own wording, and be ready to walk
-> through `Planet`, `SolarSystem`, and `PlanetApp`.
-
 ## Requirements
 
 - Python **3.10+**
